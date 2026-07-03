@@ -4,6 +4,10 @@
 
 This project analyzes Philadelphia 311 service request data using Power BI to identify operational trends, agency workloads, and service resolution performance. The dashboard transforms raw service request data into actionable operational insights through interactive visualizations, data modeling, and DAX calculations.
 
+## Dashboard Preview
+### Executive Overview
+<img width="1656" height="962" alt="image" src="https://github.com/user-attachments/assets/8429fb08-b454-4813-bfe6-36f434622c87" />
+
 ## Dataset
 
 **Source:** Philadelphia Open Data – 311 Service Requests
