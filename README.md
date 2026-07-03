@@ -7,6 +7,8 @@ This project analyzes Philadelphia 311 service request data using Power BI to id
 ## Dashboard Preview
 ### Executive Overview
 <img width="1656" height="962" alt="image" src="https://github.com/user-attachments/assets/8429fb08-b454-4813-bfe6-36f434622c87" />
+<img width="1239" height="722" alt="image" src="https://github.com/user-attachments/assets/94dc4c3c-e054-4682-aec3-79423e17ec5d" />
+<img width="1235" height="724" alt="image" src="https://github.com/user-attachments/assets/55ef2313-8abc-4832-b2e4-e37dd5100462" />
 
 ## Dataset
 
